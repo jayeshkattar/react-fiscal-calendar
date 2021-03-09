@@ -1,6 +1,6 @@
+import './styles/FiscalCalendar.scss';
 
-
-function App() {
+function FiscalCalendar() {
   return (
     <div className="App">
       <header className="App-header">
@@ -10,4 +10,4 @@ function App() {
   );
 }
 
-export default App;
+export default FiscalCalendar;
